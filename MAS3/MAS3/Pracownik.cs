@@ -12,7 +12,6 @@ namespace MAS3
         public Pracownik(string imie, string nazwisko, string pesel,double stawka ) : base(imie, nazwisko, pesel)
         {
             stawkaGodzinowa = stawka;
-
         }
     }
 }
